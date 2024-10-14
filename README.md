@@ -1,4 +1,4 @@
-# Programming and Scripting
+
 Final assignment for <em><strong>Applied Statistics</strong></em> module. 
 
 *** 
@@ -8,7 +8,7 @@ Python 3.10.9 version was used
 
 ***
 ### Technologies 
-Applications used for project
+Applications used for projectgit 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Cmder](https://cmder.app/)
 
