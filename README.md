@@ -1,6 +1,28 @@
-Task Assessment for <em><strong>Applied Statistics</strong></em> module. 
+# Assessnet Repository
+
+Task Assessment for <em><strong>Applied Statistics</strong></em> module on <em><strong>Higher Diploma in Science in Computing in Data Analytics at ATU</strong></em>.  
+
+*Submitted by*: Agnieszka Waszczuk 
+*Lecturer*: Ian McLoughlin
+
 
 *** 
+
+### Getting Started
++ 1.Install Anaconda
++ 2.Install Visual Studio Code
++ 3.Download or clone current repository Fundamentals-of-Data-Analysis-Project
++ 4.Open Command Interpreter and get into correct directory
++ 5.Install packages by running pip install -r requirements.txt 
++ 6.Run Jupyter Notebook
++ 7.On the home page of opened Jupyter server select <code>Fundamentals-of-Data-Analysis-Project</code>
++ 8.The Jupyter Notebook <code>Fundamentals-of-Data-Analysis-Project</code> project can be viewed directly on GitHub repository without installation 
+
+### Content of repository 
+* The Readme file
+* The project.ipynb 
+* The tasks.ipynb
+
 ### Programing Language 
 Python 3.10.9 version was used
 
@@ -26,6 +48,7 @@ Libraries used to complete project
 
 
 ### 
+
 Task 1: Permutations and Combinations
 Suppose we alter the Lady Tasting Tea experiment to involve twelve cups of tea. Six have the milk in first and the other six having tea in first. A person claims they have the special power of being able to tell whether the tea or the milk went into a cup first upon tasting it. You agree to accept their claim if they can tell which of the six cups in your experiment had the milk in first.
 
